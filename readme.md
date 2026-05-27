@@ -5,7 +5,7 @@ This repository contains the code for the RNA Subcellular Localization Predictio
 
 Also the web server for prediction and visualization are available at http://csuligroup.com:8000/RNALoc-LM.
 
-Before start, you need to create the environment required for the project. You can choose to create the environment directly using the RNALoc-LM.yaml file, or use the requirements.txt file to create the environment.
+Before start, you need to create the environment required for the project. You can choose to create the environment directly using the RNALoc-LM.yaml file, or use the requirements.txt file to create the environment 123.
 
 ### Create Environment with RNALoc-LM.yaml
 
