@@ -1,11 +1,12 @@
-# RNALoc-LM
+# Seminar AI for language
+## RNALoc-LM
 RNA subcellular localization prediction using pre-trained RNA language model.
 
 This repository contains the code for the RNA Subcellular Localization Prediction Model (RNALoc-LM), which can be used to predict the subcellular localization of three types of RNA: lncRNA, circRNA, and miRNA. 
 
 Also the web server for prediction and visualization are available at http://csuligroup.com:8000/RNALoc-LM.
 
-Before start, you need to create the environment required for the project. You can choose to create the environment directly using the RNALoc-LM.yaml file, or use the requirements.txt file to create the environment 123.
+Before start, you need to create the environment required for the project. You can choose to create the environment directly using the RNALoc-LM.yaml file, or use the requirements.txt file to create the environment.
 
 ### Create Environment with RNALoc-LM.yaml
 
