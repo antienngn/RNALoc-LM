@@ -1,0 +1,15 @@
+# Trained downstream checkpoints (5-fold CV per RNA type)
+models/**/*.pkl
+
+# Pre-trained RNA-FM weights (1.19 GB, tải từ gdrive)
+pretrained/*.pth
+
+# Embedding cache do base.py:pretrained() sinh ra
+data/*.npy
+
+# Thư mục tải tạm từ Google Drive
+_gdrive_download/
+
+# Python cache
+__pycache__/
+*.pyc
